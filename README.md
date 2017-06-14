@@ -18,10 +18,9 @@ You need to install Meteor to install all packages packages.json
 ### Patterns Used
 MVC Pattern
 
-
 ## Author
 
-* **Elias Taye** - *Full Stack Developer* - [PurpleBooth](https://github.com/Elichii)
+* **Elias Taye** - *Full Stack Developer* - [Linkedin](https://www.linkedin.com/in/elias-taye/)
 
 ## Acknowledgments
 
