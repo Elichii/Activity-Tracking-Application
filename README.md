@@ -1,24 +1,25 @@
 # Activity Tracking Application
 
 Simple App for organizing activities or events. It registers the whole details of activity instance, types of activities and company that activites belongs to.
-PI for registering users with mongodb and authentication using a JWT (json web token). This app uses passport and passport-jwt and uses a JWT strategy
+
 ## Technologies Used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* MeteorJS
+* ReactJS
+* NodeJS
+* MongoDB
+* Some Bootstraps
 
-### Prerequisites
+### Version
+1.0.0
 
-What things you need to install the software and how to install them
 
 ```
-Give examples
+Give examp
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+You need to install Meteor will install packages packages.json
 
 Say what the step will be
 
